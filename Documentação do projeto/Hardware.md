@@ -12,7 +12,7 @@
 <br>
 - Alguns cabos jumpers
 <br>
-- 1 Node mcu
+- 1 NodeMCU 
 <br>
 - 1 buzzer
 <br>
