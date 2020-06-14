@@ -1,6 +1,6 @@
 # Projeto – monitorar temperatura ambiente de um local
 
-Descrição do funcionamento e uso para quem quiser reproduzir
+<b>Descrição do funcionamento e uso para quem quiser reproduzir</b>
 
 O funcionamento do projeto seria exibir a temperatura ambiente de um local, mostrando se ela está boa, regular, ruim com os leds.Para temperatura boa mostrará no led verde, para regular o led amarelo e para ruim o led vermelho. Quando estiver ruim a temperatura tocará um buzzer para alertar.Os dados da temperatura serão enviados para o cloudMQTT que é o broker. Ele poderá enviar esse dado em qualquer dispositivo. Para visualizar precisará utilizar uma dashboard.
 <br><br>
