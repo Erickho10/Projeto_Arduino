@@ -1,4 +1,4 @@
-# Projeto – monitorar temperatura ambiente de um local
+# Projeto – Monitorar temperatura ambiente de um local
 
 ## Imagem do projeto:
 
