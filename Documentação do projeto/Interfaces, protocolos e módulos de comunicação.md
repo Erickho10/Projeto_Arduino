@@ -4,5 +4,5 @@
 <br><br>
 - Foi utilizado os protocolos internet(TCP/IP) e MQTT.
 <br><br>
-- Utilizou o módulo tanto para ser microcontrolador e para comunicação wireless o NodeMCU
+- Utilizou o módulo tanto para ser microcontrolador e para comunicação wireless o NodeMCU.
 </h3>
