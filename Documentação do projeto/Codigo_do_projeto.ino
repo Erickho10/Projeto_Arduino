@@ -3,7 +3,7 @@
         Projeto de medição da temperatura remotamente
 ************************************************************/
 
-//Biblioteca para conectar o NodeMCU para a rede Wi-Fi
+//Biblioteca para conectar o módulo ESP8266 para a rede Wi-Fi
 #include <ESP8266WiFi.h>
 //Biblioteca utilizada para a publicação de dados no broker
 #include <PubSubClient.h>
