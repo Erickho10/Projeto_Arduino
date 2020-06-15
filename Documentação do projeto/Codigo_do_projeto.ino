@@ -113,7 +113,7 @@ void loop() {
          Função pra reconectar ao servido MQTT
 **************************************************************/
 void reconect() {
-  // Enquanto não está conectado 
+  // Enquanto não está conectado irá tentar fazer a conexão 
   while (!client.connected()) {
     #ifdef DEBUG
     Serial.print("Tentando conectar ao servidor MQTT");
