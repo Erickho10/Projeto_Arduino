@@ -4,7 +4,7 @@
 <br>
 - Para codificar utlizou Arduino IDE
 <br>
-- Três LEDS (cores amarelo, verde e vermelho)
+- Três LEDS (cores: amarelo, verde e vermelho)
 <br>
 - Sensor de temperatura LM35
 <br>
