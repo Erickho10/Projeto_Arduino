@@ -42,7 +42,7 @@ void setup();
 void loop();
 void dadosLM35();
 void reconect();
-void reconect()
+
  
 /**************************************************************
  Função inicialização dos leds, conexão wifi e conexão com servidor MQTT
