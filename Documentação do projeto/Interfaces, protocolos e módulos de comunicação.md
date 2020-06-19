@@ -8,5 +8,5 @@
 <br><br>    
 - Utilizou como broker o "CloudMQTT".  
 <br><br>
-- Utilizou o módulo "Módulo ESP8266 NodeMcu ESP-12E" tanto para ser microcontrolador como para a comunicação wireless.
+- Utilizou o módulo "NodeMCU v3 Lolin WiFi ESP8266 ESP-12E " tanto para ser microcontrolador como para a comunicação wireless.
 </h3>
