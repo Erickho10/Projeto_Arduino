@@ -1,19 +1,19 @@
 # Hardware utilizado:
 <h3>
-- Para prototipar utilizou o site tinkercad
+- Para prototipar utilizou o site tinkercad;
 <br>
-- Para codificar utlizou Arduino IDE
+- Para codificar utlizou Arduino IDE;
 <br>
-- Três LEDS (cores: amarelo, verde e vermelho)
+- Três LEDS (cores: amarelo, verde e vermelho);
 <br>
-- Sensor de temperatura LM35
+- Sensor de temperatura LM35;
 <br>
-- Três resistores de 220 ohms
+- Três resistores de 220 ohms;
 <br>
-- Alguns cabos jumpers
+- Alguns cabos jumpers;
 <br>
-- 1 NodeMCU 
+- 1 NodeMCU;
 <br>
-- 1 buzzer
+- 1 Buzzer;
 <br>
-- 2 protoboards</h3>
+- 2 Protoboards.</h3>
