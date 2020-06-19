@@ -182,7 +182,7 @@ void dadosLM35(){
        tone(buzzer,392);            
        delay(200);
        noTone(buzzer);   
-    } // // temperatura Regular ascende o led amarelo
+    } //// temperatura Regular ascende o led amarelo
     else if(temperatura >= 26 && temperatura < 30){
             digitalWrite(greenLED, LOW);
             digitalWrite(yellowLED, HIGH);
