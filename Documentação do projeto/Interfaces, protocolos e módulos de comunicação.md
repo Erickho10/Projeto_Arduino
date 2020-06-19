@@ -2,7 +2,7 @@
 
 <h3>- O projeto utilizou o aplicativo "MQTT Dash" para fazer interface gráfica da temperatura. 
 <br><br>
-- Foi utilizado os protocolos internet(TCP/IP) e MQTT.
+- Foi utilizado os protocolos "internet(TCP/IP)" e "MQTT".
 <br><br>
  - No código do programa utilizou duas bibliotecas uma do protocolo internet(TCP/IP) e outra para o MQTT. Do protocolo de internet foi usado a "ESP8266WiFi" e do MQTT a "PubSubClient".
 <br><br>    
