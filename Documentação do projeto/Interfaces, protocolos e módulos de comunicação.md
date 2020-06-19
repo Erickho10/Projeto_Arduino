@@ -4,7 +4,7 @@
 <br><br>
 - Foi utilizado os protocolos "internet(TCP/IP)" e "MQTT".
 <br><br>
- - No código do programa foi utlizado duas bibliotecas uma do protocolo "internet(TCP/IP)" e outra para o "MQTT". Do protocolo de "internet(TCP/IP)" foi utilizado a "ESP8266WiFi" e do "MQTT" a "PubSubClient".
+ - No código do programa foi empregado duas bibliotecas uma do protocolo "internet(TCP/IP)" e outra para o "MQTT". Do protocolo de "internet(TCP/IP)" foi utilizado a "ESP8266WiFi" e do "MQTT" a "PubSubClient".
 <br><br>    
 - Utilizou como broker o "CloudMQTT".  
 <br><br>
