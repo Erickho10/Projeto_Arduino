@@ -5,7 +5,7 @@ Os dados da temperatura serão enviados para o broker que é o CloudMQTT. Ele en
 <br><br>
 Para quem quiser reproduzir:
 <br>- Colocar todos os periféricos na protoboard. 
- <br> - No NodeMCU colocar um cabo jumper no GND para a protoboard  que alimentará todos os periféricos. 
- <br>- Para cada LED no lado do ânodo colocar um cabo jumper em um pino digital do NodeMCU com um resistor de 220 ohms e no lado do cátodo colocar um jumper na GND da protoboard. 
-<br>- Para fazer conexão do buzzer colocar um jumper em um pino digital do NodeMCU na parte positiva do buzzer e na parte negativa do buzzer colocar um jumper no GND da protoboard. 
-<br> - Para o sensor LM35 colocar na potência um jumper no 5V do NodeMCU, no Vout colocar um jumper em uma entrada analógica e um cabo jumper no GND da protoboard.</h3>
+ <br> - No NodeMCU, colocar um cabo jumper no GND para a protoboard, que alimentará todos os periféricos. 
+ <br>- Para cada LED no lado do ânodo, colocar um cabo jumper em um pino digital do NodeMCU, com um resistor de 220 ohms, e no lado do cátodo, colocar um jumper na GND da protoboard. 
+<br>- Para fazer conexão do buzzer, colocar um jumper em um pino digital do NodeMCU na parte positiva do buzzer, e na parte negativa do buzzer, colocar um jumper no GND da protoboard. 
+<br> - Para o sensor LM35, colocar na potência um jumper no 5V do NodeMCU; no Vout, colocar um jumper em uma entrada analógica do NodeMCU e um cabo jumper no GND da protoboard.</h3>
