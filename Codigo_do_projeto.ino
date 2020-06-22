@@ -195,3 +195,4 @@ void dadosLM35(){
     }
     delay(1000);
 }
+
