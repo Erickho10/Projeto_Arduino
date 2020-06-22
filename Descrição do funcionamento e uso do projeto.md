@@ -1,7 +1,7 @@
 # Descrição do funcionamento e uso para quem quiser reproduzir
 
 <h3>O funcionamento do projeto é realizar a monitoração da temperatura ambiente de um local, mostrando se ela está boa, regular, ruim com os leds. Para temperatura boa mostrará no led verde, para regular o led amarelo e para ruim o led vermelho. Quando estiver ruim a temperatura, tocará um buzzer para alertar.
-Os dados da temperatura serão enviados para o broker que é o CloudMQTT. Ele enviará o dado para o MQTT Dash (um aplicativo no celular Android) que exibirá em uma dashboard a temperatura.
+Os dados da temperatura serão enviados para o broker que é o CloudMQTT, na qual ele enviará o dado para o MQTT Dash (um aplicativo no celular Android) que exibirá em uma dashboard a temperatura.
 <br><br>
 Para quem quiser reproduzir:
 <br>- Colocar todos os periféricos na protoboard. 
