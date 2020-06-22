@@ -4,7 +4,7 @@
 Os dados da temperatura serão enviados para o broker que é o CloudMQTT, na qual ele enviará o dado para o MQTT Dash (um aplicativo no celular Android) que exibirá em uma dashboard a temperatura.
 <br><br>
 Para quem quiser reproduzir:
-<br>- Colocar todos os periféricos na protoboard. 
+<br>- Colocar todos os dispositivos na protoboard. 
  <br> - No NodeMCU, colocar um cabo jumper macho-macho no GND para a protoboard, que alimentará todos os periféricos. 
  <br>- Para cada LED no lado do ânodo, colocar um cabo jumper macho-macho em um pino digital do NodeMCU, com um resistor de 220 ohms, e no lado do cátodo, colocar um jumper macho-macho na GND da protoboard. 
 <br>- Para fazer conexão do buzzer, colocar um cabo jumper macho-macho em um pino digital do NodeMCU na parte positiva do buzzer, e na parte negativa do buzzer, colocar um cabo jumper macho-macho no GND da protoboard. 
