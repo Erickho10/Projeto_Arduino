@@ -10,4 +10,3 @@
 <br><br>
 - Utilizou o módulo "NodeMCU v3 Lolin WiFi ESP8266 ESP-12E " tanto para ser microcontrolador como para a comunicação wireless.
 </h3>
-
