@@ -10,9 +10,9 @@
 <br>
 - Três resistores de 220 ohms;
 <br>
-- Alguns cabos jumpers;
+- Alguns cabos jumpers macho-macho;
 <br>
-- 1 NodeMCU;
+- 1 NodeMCU v3 Lolin WiFi ESP8266 ESP-12E;
 <br>
 - 1 Buzzer;
 <br>
